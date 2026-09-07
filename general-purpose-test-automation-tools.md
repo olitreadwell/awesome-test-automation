@@ -38,8 +38,8 @@ Also:
 * [VIVIDUS](https://docs.vividus.dev/) - a test automation tool that offers already implemented solution for testing of most popular application types. No coding skills are required.
 
 ## Web UI test automation
-* [Ggr](https://github.com/aandryashin/ggr) - active load balancer to create scalable and highly-available Selenium cluster.
-* [Selenoid](https://github.com/aandryashin/selenoid) - alternative Selenium Hub running browsers within containers.
+* [Ggr](https://github.com/aerokube/ggr) - active load balancer to create scalable and highly-available Selenium cluster.
+* [Selenoid](https://github.com/aerokube/selenoid) - alternative Selenium Hub running browsers within containers.
 * [RedwoodHQ](https://github.com/dmolchanenko/RedwoodHQ) - RedwoodHQ is a free Open Source test automation framework that allows multiple users to develop automation code, create readable action/keyword driven test cases and execute them all under a single Web interface.
 
 ## API testing

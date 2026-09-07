@@ -123,7 +123,7 @@ Also:
 
 * [hikaku](https://github.com/codecentric/hikaku) - A library that tests if the implementation of a REST-API meets its specification. 
 * [Karate-DSL](https://github.com/intuit/karate) - Karate is a BDD javascript framework which enables you to script a sequence of calls to any kind of web-service and assert that the responses are as expected. It makes it really easy to build complex request payloads, traverse data within the responses, and chain data from responses into the next request. Karate's payload validation engine can perform a 'smart compare' of two JSON or XML documents without being affected by white-space or the order in which data-elements actually appear, and you can opt to ignore fields that you choose.
-* [Retrofit](http://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
+* [Retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and Java.
 * [REST-Assured](https://github.com/rest-assured/rest-assured) - A library for testing and validation of REST services in Java.
 * [BitDive](https://bitdive.io/) - Zero-code API regression testing tool that captures real HTTP traffic and replays scenarios with automatic mocking to detect semantic drift.
 
@@ -182,7 +182,7 @@ Also:
 * [ReportPortal](https://github.com/reportportal/reportportal) - powerful server-client reporting tool. Reduce the effort to work with results. Powered with Machine Learning, Providing historical data (statues) of executions in on click, logs, screenshost and any binary attachement. Trends, flaky test, most failed, longest test via custom widgets and dashboards, which give visibility to the team, leads, managers and falcon-eye view for VPs. Provide ability to categorize fails by custom defect types and utilize power of Machine Learning to detect fails, based on collected patterns. Give benefits of real-time integration: no need to wait execution ending.  Any language, any platform. Free, Open Sourced. [Java integrations](https://github.com/reportportal?utf8=✓&q=agent-java&type=&language=)
 * [Allure](https://docs.qameta.io/allure/latest) - Open-source framework designed to create test execution reports clear to everyone in the team.
 * [Gradle Allure Plugin](https://github.com/d10xa/gradle-allure-plugin) - 3rd-party Gradle Allure Plugin allows you to integrate Allure into spock, testing and junit tests.
-* [ExtentReports](http://relevantcodes.com/extentreports-for-selenium/) - HTML reporting library for .NET and Java which is extremely easy to use and creates beautiful execution reports. It shows test and step summary, test steps and status in a toggle view for quick analysis.
+* [ExtentReports](https://github.com/extent-framework/extentreports-java) - HTML reporting library for .NET and Java which is extremely easy to use and creates beautiful execution reports. It shows test and step summary, test steps and status in a toggle view for quick analysis.
 * [ReportNG](http://reportng.uncommons.org/) - ReportNG is a simple HTML reporting plug-in for the TestNG unit-testing framework.
 * [Zebrunner Reporting](https://github.com/zebrunner/reporting) -Zebrunner Reporting is a test automation management tool that accumulates and represents test results. It is designed to increase the transparency of automation, providing detailed reports with test logs, screenshots and video recordings of test sessions.
 * [Difido-reports](http://top-q.github.io/difido-reports/) - This project aims to provide a generic implementation for HTML test reports.

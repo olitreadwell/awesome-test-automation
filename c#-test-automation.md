@@ -48,7 +48,7 @@ actual.Should().StartWith("AB").And.EndWith("HI").And.Contain("EF").And.HaveLeng
 ```
 * [SpecFlow](http://www.specflow.org/) ―  A pragmatic BDD solution for .NET. It uses the Gherkin specification language and integrates to Visual Studio.
 * [SpecFlow.Selenium.Plugin](https://github.com/unickq/SpecFlow.Selenium.Plugin) ― SpecFlow plugin for Selenium instances generation over tags. Cucumber for dotnet
-* [BDDfy](http://docs.teststack.net/bddfy/) - The simplest BDD framework for .Net EVER! The name comes from the fact that it allows you to turn your tests into BDD behaviors simply. 
+* [BDDfy](https://github.com/TestStack/TestStack.BDDfy) - The simplest BDD framework for .Net EVER! The name comes from the fact that it allows you to turn your tests into BDD behaviors simply. 
 
 ## Code analysis 
 
@@ -60,7 +60,7 @@ actual.Should().StartWith("AB").And.EndWith("HI").And.Contain("EF").And.HaveLeng
 ## Web UI test automation
 
 * [Selenium WebDriver](https://www.nuget.org/packages/Selenium.WebDriver) ― Yes! [WebDriver](http://www.seleniumhq.org/) is everywhere! This is the best and the most popular UI test automation library and infrastructure.
-* [Atata](https://atata-framework.github.io/) ― An open source C#/.NET test automation full featured framework based on Selenium WebDriver. It uses fluent page object pattern with built-in logging. Atata Framework is extensible and contains a set of components, triggers and much more.
+* [Atata](https://atata.io/) ― An open source C#/.NET test automation full featured framework based on Selenium WebDriver. It uses fluent page object pattern with built-in logging. Atata Framework is extensible and contains a set of components, triggers and much more.
 * Coded UI (deprecated :skull:) ($$$) (Internet Explorer only) ― Okay... it is integrated into the Visual Studio Premium+ and supports Record&Playback "automation". 
 * [WatiN](http://watin.org/) ― Before the Selenium Webdriver appeared on the market, WatiN was one of the best Web UI automation frameworks for .NET.  Now it is not maintained. :skull:
 * [Golem](https://github.com/ProtoTest/ProtoTest.Golem) Object Oriented C# Automated Testing Framework. Golem was created to simplify the process of creating enterprise-scale automated testing suites. It wraps around Gallio/MbUnit and a number of automation tools (such as Selenium-WebDriver) to provide the tester with a simple process for creating automated tests no matter what the tool. The inclusion of advanced features, diagnostic information, easy configuration, and enhanced API's helps Golem make automating in code-based automation tools much more practical. A standard test structure is enforced throughout the Golem framework to make the code readable and easy to reuse. Company behind it (ProtoTest) is in the process of winding down. Last commit was done in May, 2015.
@@ -123,7 +123,7 @@ run the C# tests just out of the box
 ## Reporting
 
 * [Allure](https://github.com/allure-framework/allure-csharp) - An open-source reporting library for test automation (NUnit 2 and MSTest adapters).
-* [Allure SpecFlow](https://github.com/allure-framework/allure-csharp/tree/master/Allure.SpecFlowPlugin) - Allure SpecFlow Plugin
+* [Allure SpecFlow](https://github.com/allure-framework/allure-csharp) - Allure SpecFlow Plugin
 * [Allure NUnit](https://github.com/unickq/allure-nunit) - Allure NUnit plugin
 * [ReportPortal](http://reportportal.io/) - Full-featured result management tool for clients, managers & test automation engineers (NUnit 2, Nunit 3 and SpecFlow adapters).
 * [ExtentReports](http://extentreports.relevantcodes.com) - An open-source reporting library for test automation.
@@ -131,7 +131,7 @@ run the C# tests just out of the box
 
 ## Documentation generation
 
-* [Doxygen](http://www.stack.nl/~dimitri/doxygen/) is a free and open source documentation generation platform, that supports multiple languages. 
+* [Doxygen](https://www.doxygen.nl/) is a free and open source documentation generation platform, that supports multiple languages. 
 You may write a standard C# XML documentation ― and Doxygen will process it correctly; Yo may use markdown and include images ― Doxygen can handle even more.
 Grab and modify this [Doxyfile for C#](https://github.com/dzharii/SWD.Starter/blob/master/Doxyfile)
 * [Wyam](https://wyam.io/) Static site generator with built-in capability to generate API documentation from .NET library metadata and XML documentation.
