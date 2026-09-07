@@ -22,7 +22,7 @@
 - open issues: 134 total; only 1 recently-updated open issue (#576 "Add Chronos", opened by cursor[bot], no maintainer engagement — comments are user questions, not maintainer acceptance). Not a maintainer-engaged pick.
 
 ## Gap ledger (dedupe — READ FIRST, never re-pick)
-- 2026-09-07 self-found dead-links (11 verified-404 links with live 200 replacements) — outcome: pr-opened — lesson: awesome-list dead-link batch, all replacements live-verified
+- 2026-09-07 self-found dead-links (11 verified-404 links with live 200 replacements) — outcome: pr-opened (https://github.com/olitreadwell/awesome-test-automation/pull/1) — lesson: awesome-list dead-link batch, all replacements live-verified
 
 ## Mined gaps (discovered, not yet attempted)
 - 2026-09-07 docs/dead-links: 11 links return 404 (re-verified via curl), each with a live 200 canonical replacement (jestjs.io, aerokube/selenoid, aerokube/ggr, allure-csharp, doxygen.nl, TestStack.BDDfy, extentreports-java, tungwaiyip/HTMLTestRunner, square/retrofit, atata.io, docs.github.com about-pull-requests). Dedupe: no open/closed/merged upstream PR touches these URLs (checked via gh search prs). status: proposed
